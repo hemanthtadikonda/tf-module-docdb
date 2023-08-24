@@ -9,3 +9,4 @@ variable "cidr_blocks" {}
 variable "instance_count" {}
 variable "instance_class" {}
 variable "engine_version" {}
+variable "family" {}
